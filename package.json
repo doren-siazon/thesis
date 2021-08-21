@@ -1,0 +1,22 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "This is a web based human resources for Trucking Services",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "author": "Navaroza R., Ramos I.A., Siazon D., Valdrez J.",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jquery-datetimepicker": "^2.5.21",
+    "node-calendar": "^0.1.5",
+    "node-calendar-js": "^1.0.3",
+    "open": "^8.2.1",
+    "path": "^0.12.7"
+  }
+}
